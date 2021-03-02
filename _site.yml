@@ -7,3 +7,9 @@ navbar:
       href: dave.html
     - text: "Lillian Senn"
       href: LSenn.html  
+      
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    toc: true 
+    toc_float: true 
