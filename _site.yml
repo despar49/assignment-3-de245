@@ -1,0 +1,9 @@
+output_dir: "."
+navbar:
+  left:
+    - text: "Homepage"
+      href: index.html
+    - text: "Dave Esparza"
+      href: dave.html
+    - text: "Lillian Senn"
+      href: LSenn.html  
