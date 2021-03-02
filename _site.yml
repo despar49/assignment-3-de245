@@ -6,7 +6,6 @@ navbar:
       href: dave.html
     - text: "Lillian Senn"
       href: LSenn.html  
-      
 output_dir: "."
 output:
   html_document:
