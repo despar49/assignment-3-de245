@@ -1,4 +1,5 @@
 navbar:
+  type: inverse
   left:
     - text: "Homepage"
       href: index.html
